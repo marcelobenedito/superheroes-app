@@ -1,0 +1,21 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+x
+Happ/src/main/java/com/github/marcelobenedito/superheroes/MainActivity.kt,8\f\8f033894ffd8c569518f51240663b2d8af88fdf9
+z
+Japp/src/main/java/com/github/marcelobenedito/superheroes/ui/theme/Color.kt,6\9\69fe0141240b71fcd77feb8ea8e3a9d4a35347b1
+z
+Japp/src/main/java/com/github/marcelobenedito/superheroes/ui/theme/Shape.kt,a\5\a5df8a6a281bdef2810266331da425c86dc7219d
+y
+Iapp/src/main/java/com/github/marcelobenedito/superheroes/ui/theme/Type.kt,1\0\1003fa40a28e335042a9d3a8f75c3d129db7919a
+z
+Japp/src/main/java/com/github/marcelobenedito/superheroes/ui/theme/Theme.kt,1\c\1cdd7feb3839cde3b5144ad86b87aadf024c28f8
+{
+Kapp/src/main/java/com/github/marcelobenedito/superheroes/ui/HeroesScreen.kt,8\1\815e99e80fda686d55e26dc29362ae4c5137635e
+v
+Fapp/src/main/java/com/github/marcelobenedito/superheroes/model/Hero.kt,3\3\338bb3f606ac8a2dfd77d91aca513b768df20d5b
+‚
+Rapp/src/main/java/com/github/marcelobenedito/superheroes/model/HeroesRepository.kt,8\7\87506bd8cc2a4254a850069c42beca7edf21348c
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
